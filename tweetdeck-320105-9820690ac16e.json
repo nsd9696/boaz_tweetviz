@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "tweetdeck-320105",
+  "private_key_id": "9820690ac16e58c1f116d1beec54917e0d456a3d",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCvo7veM2JFLevP\ntk5yKRUvPvMjKtDxpSli8zT0915eF1Q+/XgYsbfGxeEWtABkZuNodfdPkTP7s9wo\n5g5D6yOchF57VdgPdRNNmSX0l/lDQgyI66LPEbXyG9vQLBlxchpa1fzuN7OsrBr1\n/8dMWOAZ6iANS9sX/2xdC4a7PeAMQtM4uGfAFQ1oNJ9EwxPsWY3eSORkonCWdpmG\nMuNMQVnmFqP+M9DjgFplkzIqNDkPWoKjzVt20maEi7VwLPOU2l/1mffvU4JsVAuM\nzcyBmkKRXHzie3EQrBzq3jL4RlgShRdNAaphxjAAE/vxmY2GjvWbCah7DYOrG474\nSi673SDrAgMBAAECggEAJy+LAxSIuLF5mnJshwjGaq+LNE3hpv/3v1VOe9bSrYBb\n8d/AExZXT5gnU1befYf89XnYLt7Q77edh1xoU1vbKpjXsYGh/jTbFSV1c+ASIyDR\nxhx4SuWDJ9xySrwEAyz3V0vFreosgno1W6vwrYZonS+Abib93xlD9nBTY2P3IBTL\n5lWMde0coWJ3pEv0i4S+iA2Y2AyY3QkQ1cz1SxXD6qug75Ca7354vwBhx9WrrOx4\nRwzqRQ2+dBjZ2DmgddAq4wGgLm+4UCOpJubMVxuKrBVAuhNoBuw4bCWHqKwZtZnT\ndKtADH/zyCX40OEmAcBZZi1vPf55kB4l/9OthReTFQKBgQDfhkQIpUcHT1JLRvsd\npIt3xRoPPkSNSXI7yQm9nOl1E2ZSNNGIwXb+2tNIj6zj2D5h4BfGPLbhaRy2RL6k\nR+NGKjtiDjiuMpbSyOem6ooU1KtcwB/GqPdG3yqp763Df7476X7pIxnCETgFU3/Q\n6rlJouvD73tRtdPcxn4ri66fpQKBgQDJKHHshWClv4lktREWwld5b6nrPjSfOcJM\n3PNydXNY2kueIQEZ3XdeKPQyVHpnFvqzaAFfF2NScMF4rVOh451U1HTGLx/OSKyg\nm1msFT+u16FGYmtRAEnPQTd9wSypB0lGy2KG10k69JR+kspqqYCl5K9u6nRTIFRl\ne0tarFvZTwKBgEXlCS8e53f8sMIDPxDE3CumgYCUuwDnH4ZcVeRpxYKrf0pjY8X8\noQYOTRUagDh67P7UAPsnDxSrNqQ0GNzr8cCGAi2mPskR3qGo2u8R1f2vhqopFYac\nXT5XGFMtNEu2jTjUya+DH1HU6oyX0Jb2XtwMyuZo40norogRtXBObFtVAoGALAb2\nKFZo+N4bLDeVLe4LR0DxZ9ONoOv7YudZQUwDmwbsVgfTPd4DKlC8YeergrS82leB\nNVbhHkIfllIZY+11mgOGK3pU88lkPyLBVbCw54u6eLVB19DAVuRnSNbm93foyd3q\nCqlEFetCNRHby8ydo7GR1CzsmOUSk8OQkp/22nECgYEAsSL9+8em3lI1yXdRAfyG\n857a7rKz7ej+MKjB7hQ1pJTUOZb7yTw4hXmZNvb5jMk0lOW42lddb8e/1u3J4mtY\n6jUxvg7h4rKb6tKhBVTnR4a99uQLTwjAByGCdEP6L0qdxqs/fxjs0uDMhfY2WHRo\n2iSnGki5j7cInz5f6kIHjGc=\n-----END PRIVATE KEY-----\n",
+  "client_email": "test-90@tweetdeck-320105.iam.gserviceaccount.com",
+  "client_id": "110022911243843212729",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/test-90%40tweetdeck-320105.iam.gserviceaccount.com"
+}
