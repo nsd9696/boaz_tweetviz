@@ -1,1 +1,0 @@
-from smartmind import nick
